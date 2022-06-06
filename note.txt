@@ -1,0 +1,9 @@
+parent class : User
+holds details about an user
+has a function to show details
+
+
+child class : Bank
+stores details about the account balance
+stores details about the amount
+allows for deposit, withdraw, view balance
